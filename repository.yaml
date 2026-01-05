@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
+name: Sijoma Home Assistant Repo
+url: 'https://github.com/Sijoma/my-home-assistant-addons'
 maintainer: Awesome Maintainer <awesome@example.com>
